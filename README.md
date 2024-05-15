@@ -28,7 +28,7 @@ self-motivated & self-educated programmer</p>
 <img src="https://seeklogo.com/images/S/strapi-icon-logo-2E03188067-seeklogo.com.png" alt="strapi" width="22" height="22"/>
 <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="react" width="22" height="22"/>
 <img src="https://programming.dev/pictrs/image/1c58f3c9-37c9-4a5e-9690-fa879ced1eae.png" alt="astro" width="22" height="22"/>
-<img src="https://www.impekable.com/wp-content/uploads/2023/05/Next_JS-500x500.png" alt="nextjs" width="22" height="22"/>
+<img src="https://marcbruederlin.gallerycdn.vsassets.io/extensions/marcbruederlin/next-icons/0.0.4/1710496760165/Microsoft.VisualStudio.Services.Icons.Default" alt="nextjs" width="22" height="22"/>
 <img src="https://cdn3d.iconscout.com/3d/free/preview/free-tailwind-9294852-7577995.png?f=webp&h=700" alt="tailwind" width="22" height="22"/>
 <img src="https://w7.pngwing.com/pngs/628/224/png-transparent-bootstrap-plain-wordmark-logo-icon.png" alt="bootstrap" width="22" height="22"/>
 <img src="https://static-00.iconduck.com/assets.00/flutter-icon-2048x2048-ufx4idi8.png" alt="flutter" width="22" height="22"/>
