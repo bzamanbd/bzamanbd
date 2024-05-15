@@ -44,6 +44,6 @@ self-motivated & self-educated programmer</p>
 <img src="https://alexhunt86.files.wordpress.com/2015/12/esxi-logo.png" alt="esxi" width="22" height="22"/>
 <img src="https://cdn-icons-png.freepik.com/512/5683/5683839.png" alt="api" width="22" height="22"/>
 <img src="https://ops.tips/blog/-/images/grpc.png" alt="grpc" width="22" height="22"/>
-<img src="https://www.pikpng.com/pngl/m/455-4550459_golang-logo-go-logo-png-clipart.png " alt="grpc" width="22" height="22"/>
+<img src="https://w7.pngwing.com/pngs/566/160/png-transparent-golang-hd-logo-thumbnail.png" alt="go" width="22" height="22"/>
 
 </p>
