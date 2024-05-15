@@ -43,7 +43,7 @@ self-motivated & self-educated programmer</p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" alt="github" width="22" height="22"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png" alt="docker" width="22" height="22"/>
 <img src="https://alexhunt86.files.wordpress.com/2015/12/esxi-logo.png" alt="esxi" width="22" height="22"/>
-<img src="https://cpng.pikpng.com/pngl/s/200-2005193_api-api-logo-transparent-clipart.png" alt="api" width="22" height="22"/>
-<img src="https://asset.brandfetch.io/idRakqepgw/idfdYj6WSZ.png" alt="grpc" width="22" height="22"/>
+<img src="https://cdn-icons-png.freepik.com/512/5683/5683839.png" alt="api" width="22" height="22"/>
+<img src="https://ops.tips/blog/-/images/grpc.png" alt="grpc" width="22" height="22"/>
 
 </p>
