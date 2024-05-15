@@ -24,8 +24,8 @@ self-motivated & self-educated programmer</p>
 <img src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png" alt="node" width="22" height="22"/>
 <img src="https://files.oaiusercontent.com/file-eQxfrZI8suNdr5FPVDcRfTKG?se=2123-10-25T08%3A27%3A25Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D17c86623-dfcc-4c0c-84b9-dddbca7b6466.png&sig=jEpIYkG0JA/j9d8LUmrJu%2BDUPxvEVaAMnHvb8AIidiQ%3D" alt="express" width="22" height="22"/>
 <img src="https://seeklogo.com/images/S/strapi-icon-logo-2E03188067-seeklogo.com.png" alt="strapi" width="22" height="22"/>
-<img src="https://w7.pngwing.com/pngs/566/160/png-transparent-golang-hd-logo-thumbnail.png" alt="go" width="22" height="22"/>
 <img src="https://cdn-icons-png.freepik.com/512/5683/5683839.png" alt="api" width="22" height="22"/>
+<img src="https://w7.pngwing.com/pngs/566/160/png-transparent-golang-hd-logo-thumbnail.png" alt="go" width="22" height="22"/>
 <img src="https://ops.tips/blog/-/images/grpc.png" alt="grpc" width="22" height="22"/>
 <img src="https://w7.pngwing.com/pngs/448/730/png-transparent-postgresql-plain-logo-icon-thumbnail.png" alt="postgresql" width="22" height="22"/>
 <img src="https://static-00.iconduck.com/assets.00/database-mysql-icon-923x1024-37xcgdyl.png" alt="mysql" width="22" height="22"/>
