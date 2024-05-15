@@ -1,12 +1,12 @@
 <h1 align="center"> Hi, I'm Ripon</h1>
-<p align="center">Fully Dedicated Flutter Apps Developer<br/>
+<p align="center">Fully Dedicated Software Developer(BackEnd & FrontEnd)<br/>
 self-motivated & self-educated programmer</p>
 <br />
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90719674/142732132-b01c8f39-6265-4c0c-b0b8-9a2845030a01.gif" width="500" height="320" />
 
 - 🔭 I’m currently working at https://icircles.app
-- 💻 Learning better things of Mobile Apps Development
-- 👯 want to collaborate on Mobile Apps Development Sector
+- 💻 Learning better things of Software Development
+- 👯 want to collaborate on Software Development Sector
 
 
 <p>Skype: riponnancybd<br/>
