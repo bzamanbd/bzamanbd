@@ -1,4 +1,4 @@
-![image](https://github.com/bzamanbd/bzamanbd/assets/90719674/3ebac223-e097-4ff9-8884-b97db15189f1)<h1 align="center"> Hi, I'm Ripon</h1>
+![image](https://avatars.githubusercontent.com/u/90719674?v=4)<h1 align="center"> Hi, I'm Ripon</h1>
 <p align="center">Fully Dedicated Software Developer(BackEnd & FrontEnd)<br/>
 self-motivated & self-educated programmer</p>
 <br />
