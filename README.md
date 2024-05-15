@@ -40,10 +40,10 @@ self-motivated & self-educated programmer</p>
 <img src="https://static-00.iconduck.com/assets.00/database-mysql-icon-923x1024-37xcgdyl.png" alt="mysql" width="22" height="22"/>
 <img src="https://w7.pngwing.com/pngs/448/730/png-transparent-postgresql-plain-logo-icon-thumbnail.png" alt="postgresql" width="22" height="22"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" alt="github" width="22" height="22"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png" alt="docker" width="22" height="22"/>
 <img src="https://alexhunt86.files.wordpress.com/2015/12/esxi-logo.png" alt="esxi" width="22" height="22"/>
 <img src="https://cdn-icons-png.freepik.com/512/5683/5683839.png" alt="api" width="22" height="22"/>
 <img src="https://ops.tips/blog/-/images/grpc.png" alt="grpc" width="22" height="22"/>
+<img src="https://thumbnail.imgbin.com/17/18/7/imgbin-go-programming-language-computer-programming-programmer-programming-language-XSzYiv9EBpwecmPywxTg7F8F4_t.jpg" alt="grpc" width="22" height="22"/>
 
 </p>
